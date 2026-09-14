@@ -1,6 +1,6 @@
 ---
 name: fix-findings
-description: Use quando houver findings de code review ou um problema de código claramente identificado que precise ser investigado, corrigido e validado.
+description: Use this when there are code review findings or a clearly identified code problem that needs to be investigated, corrected, and validated.
 ---
 
 # Fix Findings
