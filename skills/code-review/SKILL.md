@@ -1,4 +1,4 @@
-  ---
+---
 name: code-review
 description: Use when reviewing code changes, pull requests, diffs, commits, or completed implementation work before approval, merge, or integration.
 ---
